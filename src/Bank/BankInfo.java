@@ -12,6 +12,7 @@ public class BankInfo {
 	public  void deposit(int f) {
 		// TODO Auto-generated method stub
 System.out.println("The total number of deposits is"+f);
+System.out.println("Hai I am Nidhi..");
 	}
 
 }
