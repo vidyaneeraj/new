@@ -10,5 +10,6 @@ public static void main(String[] args) {
 	ab.fixed();
 	ab.deposit(500);
 	
+	
 }
 }
